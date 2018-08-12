@@ -42,21 +42,21 @@
   - [开源](#%E5%BC%80%E6%BA%90)
         - [精选](#%E7%B2%BE%E9%80%89)
         - [其他](#%E5%85%B6%E4%BB%96)
-  - [封闭源](#%E5%B0%81%E9%97%AD%E6%BA%90)
+  - [封闭项目](#%E5%B0%81%E9%97%AD%E9%A1%B9%E7%9B%AE)
   - [样品](#%E6%A0%B7%E5%93%81)
-- [Boilerplates](#boilerplates)
+- [模板们](#%E6%A8%A1%E6%9D%BF%E4%BB%AC)
 - [工具](#%E5%B7%A5%E5%85%B7)
-  - [对于electron](#%E5%AF%B9%E4%BA%8Eelectron)
+  - [给予electron的工具](#%E7%BB%99%E4%BA%88electron%E7%9A%84%E5%B7%A5%E5%85%B7)
   - [使用electron](#%E4%BD%BF%E7%94%A8electron)
 - [组件](#%E7%BB%84%E4%BB%B6)
 - [文档](#%E6%96%87%E6%A1%A3)
-- [用品](#%E7%94%A8%E5%93%81)
+- [博文](#%E5%8D%9A%E6%96%87)
 - [图书](#%E5%9B%BE%E4%B9%A6)
 - [影片](#%E5%BD%B1%E7%89%87)
 - [播客](#%E6%92%AD%E5%AE%A2)
 - [社区](#%E7%A4%BE%E5%8C%BA)
 - [提示](#%E6%8F%90%E7%A4%BA)
-- [有助于](#%E6%9C%89%E5%8A%A9%E4%BA%8E)
+- [帮忙](#%E5%B8%AE%E5%BF%99)
 - [执照](#%E6%89%A7%E7%85%A7)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -265,7 +265,7 @@
 -   [Prices](https://electronjs.org/blog/simple-samples#prices)- 使用 Yahoo Finance API 显示石油,黄金和白银的当前价格. 
 -   [Touch Bar API](https://github.com/Rawnly/touchbar-api-sample)-  macOS Touch Bar集成示例. 
 
-## Boilerplates
+## 模板们
 
 -   [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate)- 用于快速开始创建应用程序的模板  -  by[sindresorhus](http://github.com/sindresorhus). 
 -   [generator-electron](https://github.com/sindresorhus/generator-electron)- yomen应用程序样板. 
@@ -281,7 +281,7 @@
 
 ## 工具
 
-### 对于electron
+### 给予electron的工具
 
 -   [electron-builder](https://github.com/electron-userland/electron-builder)- 创建安装程序. 
 -   [devtron](https://github.com/electron/devtron)- 官方DevTools扩展. 
@@ -376,7 +376,7 @@
 -   [官方 文档](https://electronjs.org/docs)
 -   [简明扼要说一下 Electron](http://jlord.us/essential-electron/)- 简明概述. 
 
-## 
+## 博文
 
 -   [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 -   [使用Electron构建桌面应用程序](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
