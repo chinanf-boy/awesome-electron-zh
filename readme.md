@@ -255,6 +255,7 @@
 -   [Twitch](https://app.twitch.tv)- 官方Twitch应用程序. 
 -   [Fenêtre](https://fenêt.re)- 适用于Mac的画中画. 
 -   [Cleaver](https://getcleaver.com)- 配置服务器和部署Web应用程序. 
+-   [Taskade](https://taskade.com)- 在家工作的实时组织和协作工具. 
 
 ### 样品
 
